@@ -4,7 +4,7 @@
     <root id="archive" name="telegram_spam_bot5.jar">
       <element id="module-output" name="telegram_spam_bot5" />
       <element id="extracted-dir" path="$PROJECT_DIR$/../selenium-server-4.1.2.jar" path-in-jar="/" />
-      <element id="file-copy" path="$PROJECT_DIR$/../selenium-server-4.1.2.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/chromedriver.exe" />
     </root>
   </artifact>
 </component>
